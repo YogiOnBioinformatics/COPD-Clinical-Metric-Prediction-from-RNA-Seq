@@ -10,6 +10,11 @@ Work done during 1st rotation with Professor Ani Manichaikul.
 <br>
 
 ## Files: 
+
+📄 `./presentation/Manichaikul_Rotation_Presentation.pdf`: 
+
+Talk given to Manichaikul group summarizing my work during this rotation. 
+
 📓 `./qtl-association/notebooks/matching.ipynb`: 
 
 Find exact and "fuzzy" matches between significant variants that are (e/p/m)QTL. 
