@@ -1,6 +1,6 @@
 # Manichaikul-PhD-Rotation
 
-Work done during 1st rotation with Professor Ani Manichaikul. 
+Work done during 1st rotation with Professor Ani Manichaikul (July - August 2022).  
 <br>
 <br>
 
