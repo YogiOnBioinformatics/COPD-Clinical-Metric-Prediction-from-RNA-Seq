@@ -1,6 +1,9 @@
-# Manichaikul-PhD-Rotation
+# Linking COPD Clinical Metrics to RNA Sequencing 
 
-Work done during 1st rotation with Professor Ani Manichaikul (July - August 2022).  
+
+Work done during 1st UVA BIMS PhD rotation with Professor Ani Manichaikul (July - August 2022).  
+<br> 
+Worked on prediction of COPD clinical metrics using bulk RNA-Seq data while accounting for several covariates in a systematic manner. 
 <br>
 <br>
 
