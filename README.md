@@ -1,9 +1,4 @@
 # Manichaikul-PhD-Rotation
-University of Virginia School of Medicine (UVA SOM)
-
-Biomedical Sciences Graduate Program (BIMS)
-
-Computational Biology PhD Program 
 
 Work done during 1st rotation with Professor Ani Manichaikul. 
 <br>
